@@ -1,0 +1,9 @@
+-["Material Bricks", color(223, 167, 167)]
+[#nm:"Material Brick", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Material Brick Slope E", #sz:point(1,1), #specs:[2], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Material Brick Slope EU", #sz:point(1,1), #specs:[4], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Material Brick Slope W", #sz:point(1,1), #specs:[3], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Material Brick Slope WU", #sz:point(1,1), #specs:[5], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Material Brick Stair W", #sz:point(1,1), #specs:[3], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Material Brick Stair E", #sz:point(1,1), #specs:[2], #specs2:0, #tp:"voxelStruct", #repeatL:[10], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

@@ -1,0 +1,4 @@
+-["Extra Thick Beams", color(122, 177, 255)]
+[#nm:"Thick BeamB", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Empty Thick Beam", #sz:point(1,2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Empty Thick BeamB", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]

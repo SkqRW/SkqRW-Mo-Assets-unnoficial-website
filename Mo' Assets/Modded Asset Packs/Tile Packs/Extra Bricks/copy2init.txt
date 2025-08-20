@@ -1,0 +1,8 @@
+-["Extra Bricks", color(223, 167, 167)]
+[#nm:"SingleBigBrick", #sz:point(2,1), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"BigBrickB", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"HalfSingleBigBrick L", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"HalfSingleBigBrick R", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"LargeBrick", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"3DBrick Stair E", #sz:point(1,1), #specs:[2], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"3DBrick Stair W", #sz:point(1,1), #specs:[3], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

@@ -1,0 +1,6 @@
+-["Extra Stones", color(183, 139, 152)]
+[#nm:"Small Stone X", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Square Stone X", #sz:point(2,2), #specs:[1, 1, 1, 1], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"Big Stone X", #sz:point(3,3), #specs:[1, 1, 1, 1, 1, 1, 1, 1, 1], #specs2:[1, 1, 1, 1, 1, 1, 1, 1, 1], #tp:"voxelStructRockType", #bfTiles:1, #rnd:3, #ptPos:0, #tags:[]]
+[#nm:"Stone Stair E", #sz:point(1,1), #specs:[2], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:4, #ptPos:0, #tags:[]]
+[#nm:"Stone Stair W", #sz:point(1,1), #specs:[3], #specs2:0, #tp:"voxelStructRockType", #bfTiles:1, #rnd:4, #ptPos:0, #tags:[]]

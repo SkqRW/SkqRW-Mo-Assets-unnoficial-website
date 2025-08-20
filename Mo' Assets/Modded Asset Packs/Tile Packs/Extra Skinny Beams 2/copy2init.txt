@@ -1,0 +1,5 @@
+-["Extra Skinny Beams 2", color(122, 177, 255)]
+[#nm:"Skinny Beam 2B", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Empty Skinny Beam 2", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Empty Skinny Beam 2B", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"Skinny Beam 2 Platform", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[2,6,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
