@@ -1,0 +1,8 @@
+Template: NONE
+Clouds: 0.5978261
+Grime: 0.326087
+Palette: 0
+EffectColorA: 10
+EffectColorB: 2
+Effects: Contrast-0.02173913-740-527, 
+FadePalette: 5, 0.7282609

@@ -1,0 +1,5 @@
+-["Ventilation", color(0, 50, 255)]
+[#nm:"Ventbox Corner SW", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Ventbox Corner SE", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Ventbox Corner NW", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Ventbox Corner NE", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1, 1, 1, 1, 6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

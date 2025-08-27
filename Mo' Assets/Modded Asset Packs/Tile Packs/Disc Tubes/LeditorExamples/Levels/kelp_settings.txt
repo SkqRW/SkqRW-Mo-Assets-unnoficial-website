@@ -1,0 +1,10 @@
+Template: NONE
+Clouds: 0
+Grime: 0.2826087
+Palette: 22
+EffectColorA: 2
+EffectColorB: 21
+Effects: Darkness-0.3043478-732-392, Contrast-0.02173913-738-536, SkyAndLightBloom-0.07608695-730-462, 
+PlacedObjects: LanternOnStick><433.4453><428.543><3~-81, LightSource><426.1333><413.3376><0.25~EffectColor1~86~26~151~18.60254~0~1~None~0~0, 
+AmbientSounds: OMNI><AM_WIN-MedWind.ogg><790.6031><540.6143><0.25><1, OMNI><AM_ENV-CityTone.ogg><788.551><611.0194><0.2934783><1, 
+FadePalette: 12, 0.4565217

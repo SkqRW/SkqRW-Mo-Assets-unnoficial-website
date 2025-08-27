@@ -1,0 +1,31 @@
+________________________________________________
+________________________________________________
+
+— Changelogs
+* 1.0 (at 14 / 11 / 24)
+   * Transferred tile graphics
+   * Initial folders setup
+   * Better organization
+   * Up to 26 tiles
+   * Testing
+
+
+* 1.1 (also at 14 / 11 / 24)
+   * Improved organization (sort of)
+   * Fixed(?) DiscTubeM_CurveNW having its tile sheet image with a wrong file name (was previously DiscTubeSW_CurveNW)
+   * Fixed DiscTubeS_HDiag1/2's editor icons
+   * Created the “LeditorExamples” for example rooms
+      * Currently including kelp, CurvesAndSlopes, SmallDiag, ShowcaseTest2, and tjunctest
+      * Also added “Levels” and “RoomScreenshots” subfolders
+
+
+* 1.2 (at 15 / 11 / 24)
+   * Added DiscTubeS_TJuncN/S/W/E, and DiscTubeS_VDiag1/2 tiles to the “Small” category
+      * Up to 32 total tiles with these
+   * Created this document as a “better” alternative to the text file readme + changelogs included here
+   * Ready! (Computer generated message) [/ref]
+   * Added more images to the document
+   * Fixed DiscTubeS_VDiag1/2 editor icons
+   * Boring tweaks to the document (This is taking me an awful lot)
+   * New readme.txt text + changelogs_text.txt
+   * First public “release”

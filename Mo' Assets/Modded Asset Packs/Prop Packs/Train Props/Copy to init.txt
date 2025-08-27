@@ -1,0 +1,8 @@
+-["Forsaken Trains", color(80, 255, 80)]
+[#nm:"Train_23x10x10", #tp:"standard", #colorTreatment:"standard", #sz:point(23,10), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Train2_15x10x10", #tp:"standard", #colorTreatment:"standard", #sz:point(15,10), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Train3 40x10x10", #tp:"standard", #colorTreatment:"standard", #sz:point(40,10), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Train4 10x8x10", #tp:"standard", #colorTreatment:"standard", #sz:point(10,8), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Train5 18x10x10", #tp:"standard", #colorTreatment:"standard", #sz:point(18,10), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"TrainDestroyed1 28x10x10", #tp:"standard", #colorTreatment:"standard", #sz:point(28,10), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"TrainDestroyed2 39x10x10", #tp:"standard", #colorTreatment:"standard", #sz:point(39,10), #repeatL:[1,1,1,1,1,1,1,1,1,1], #tags:[], #layerExceptions:[], #notes:[]]

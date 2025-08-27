@@ -1,0 +1,21 @@
+-["BoringFans", color(246,164,14)]
+
+//mono8
+[#nm:"mono8fans", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"mono8fansBackwall", #sz:point(2,2), #specs:[1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+
+//d4 normal
+[#nm:"dual4fans", #sz:point(4,4), #specs:[3,1,1,5,1,1,1,1,1,1,1,1,2,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"dual4fansBackwall", #sz:point(4,4), #specs:[3,1,1,5,1,1,1,1,1,1,1,1,2,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+
+//d4 vent
+[#nm:"dual4fansVent", #sz:point(4,4), #specs:[3,1,1,5,1,1,1,1,1,1,1,1,2,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"dual4fansVentBackwall", #sz:point(4,4), #specs:[3,1,1,5,1,1,1,1,1,1,1,1,2,1,1,4], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+
+//d4 cased
+[#nm:"dual4fansCased", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"dual4fansCasedBackwall", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+
+//d4 cased vent
+[#nm:"dual4fansCasedVent", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]
+[#nm:"dual4fansCasedVentBackwall", #sz:point(4,4), #specs:[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["notTrashProp"]]

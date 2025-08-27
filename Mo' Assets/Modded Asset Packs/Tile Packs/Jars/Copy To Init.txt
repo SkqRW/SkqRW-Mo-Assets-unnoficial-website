@@ -1,0 +1,5 @@
+-["Jars", color(0, 200, 200)]
+[#nm:"Jar Top", #sz:point(4,2), #specs:[1,1 ,1,1 ,1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Jar Bottom", #sz:point(4,2), #specs:[1,1 ,1,1 ,1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Jar Segment", #sz:point(4,1), #specs:[1 ,1 ,1 ,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Jar Segment Big", #sz:point(4,2), #specs:[1,1 ,1,1 ,1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

@@ -1,0 +1,31 @@
+-["Capsules", color(66, 132, 107)]
+[#nm:"Capsule Clamp", #sz:point(2, 1), #specs:[1 ,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,7], #bfTiles:1, #rnd:32, #ptPos:0, #tags:[]]
+[#nm:"Capsule Clamp Broken", #sz:point(2, 1), #specs:[1 ,1], #specs2:0, #tp:"voxelStruct", #repeatL:[2,1,7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Capsule1", #sz:point(2, 3), #specs:[1,1,1 ,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,3,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule1 Empty", #sz:point(2, 3), #specs:[1,1,1 ,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,2,3,3], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule2 H", #sz:point(2, 2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule2 H Empty", #sz:point(2, 2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule2 V", #sz:point(2, 2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule2 V Empty", #sz:point(2, 2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,2,5], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule3", #sz:point(4, 4), #specs:[1,1,1,1 ,1,1,1,1 ,1,1,1,1 ,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule3 Empty", #sz:point(4, 4), #specs:[1,1,1,1 ,1,1,1,1 ,1,1,1,1 ,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,1,1,1,1,2], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Capsule4", #sz:point(1, 2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule4 Empty", #sz:point(1, 2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule4 Left", #sz:point(1, 2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule4 Right", #sz:point(1, 2), #specs:[1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule4 Top", #sz:point(3, 1), #specs:[1 ,1 ,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule4 Bottom", #sz:point(3, 1), #specs:[1 ,1 ,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,9], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Capsule Open", #sz:point(2, 4), #specs:[1,1,1,1 ,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,4,1,1,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule Chain", #sz:point(2, 2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,4,2,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Capsule Chain Empty", #sz:point(2, 2), #specs:[1,1 ,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,2,4,2,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+
+
+[#nm:"Large Tank H", #sz:point(5, 3), #specs:[1,1,1 ,1,1,1 ,1,1,1 ,1,1,1 ,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Large Tank V", #sz:point(3, 5), #specs:[1,1,1,1,1 ,1,1,1,1,1 ,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Large Tank up", #sz:point(5, 3), #specs:[1,1,1 ,1,1,1 ,1,1,1 ,1,1,1 ,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Large Tank down", #sz:point(5, 3), #specs:[1,1,1 ,1,1,1 ,1,1,1 ,1,1,1 ,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Large Tank left", #sz:point(3, 5), #specs:[1,1,1,1,1 ,1,1,1,1,1 ,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Large Tank right", #sz:point(3, 5), #specs:[1,1,1,1,1 ,1,1,1,1,1 ,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,6], #bfTiles:0, #rnd:1, #ptPos:0, #tags:[]]

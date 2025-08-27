@@ -3,3 +3,4 @@
 [#nm:"Big FanB", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:[1,1,1,1,1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1,8,1,10], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["fanBlade", "nonSolid"]]
 [#nm:"Big FanC", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:[1,1,1,1,1,1,1,1,1], #tp:"voxelStruct", #repeatL:[1,8,1,10], #bfTiles:1, #rnd:1, #ptPos:0, #tags:["fanBlade", "nonSolid"]]
 [#nm:"Small Monster Fan", #sz:point(6,6), #specs:[-1,-1,1,1,-1,-1,-1,1,1,1,1,-1,1,1,1,1,1,1,1,1,1,1,1,1,-1,1,1,1,1,-1,-1,-1,1,1,-1,-1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,7], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]
+[#nm:"naF nosyD", #sz:point(3,3), #specs:[1,1,1,1,1,1,1,1,1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,4,4,1], #bfTiles:0, #rnd:1, #ptPos:0, #tags:["nonSolid"]]

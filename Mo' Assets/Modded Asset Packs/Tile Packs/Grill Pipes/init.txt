@@ -1,0 +1,17 @@
+-["Grill Pipes", color(200, 50, 80)]
+[#nm:"Grill Pipe T", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe B", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe T Window", #sz:point(1,1), #specs:[6], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe Window", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe Window Alt", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe B Window", #sz:point(1,1), #specs:[0], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
+
+[#nm:"Grill Pipe LT", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe L", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe LB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+
+[#nm:"Grill Pipe RT", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe R", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]
+[#nm:"Grill Pipe RB", #sz:point(1,1), #specs:[1], #specs2:0, #tp:"voxelStruct", #repeatL:[1,1,1,1,2,1,1,1,1], #bfTiles:1, #rnd:1, #ptPos:0, #tags:[]]

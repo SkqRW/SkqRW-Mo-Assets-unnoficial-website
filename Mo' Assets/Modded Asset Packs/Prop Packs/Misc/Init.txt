@@ -1,0 +1,10 @@
+[#nm:"Retro Antenna", #tp:"standard", #colorTreatment:"standard", #sz:point(3,3), #repeatL:[1,1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Retro Antenna Gridsnap", #tp:"standard", #colorTreatment:"standard", #sz:point(4,4), #repeatL:[1,1], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"SSLeg Pipe", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1,1,7], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"SSLeg Pipe Gridsnap", #tp:"standard", #colorTreatment:"standard", #sz:point(2,2), #repeatL:[1,1,7], #tags:["snapToGrid"], #layerExceptions:[], #notes:[]]
+[#nm:"VLB Screw", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"VLC Screw", #tp:"standard", #colorTreatment:"standard", #sz:point(1,1), #repeatL:[1], #tags:[], #layerExceptions:[], #notes:[]]
+[#nm:"Arm Coral", #tp:"variedSoft", #pxlSize:point(30, 70), #vars:4, #random:1, #depth:2, #round:5, #contourExp:1, #selfShade:2, #highLightBorder:5, #depthAffectHilites:1, #shadowBorder:0.5, #smoothShading:5, #colorize:1, #tags:["randomFlipX", "randomFlipY", "randomRotat", "drawLast", "customColor"], #notes:[]]
+[#nm:"Baloon Plant", #tp:"variedSoft", #pxlSize:point(16, 75), #vars:4, #random:1, #depth:3, #round:7, #contourExp:1.6, #selfShade:4, #highLightBorder:3, #depthAffectHilites:2, #shadowBorder:3, #smoothShading:10, #colorize:0, #tags:["randomFlipX"], #notes:[]]
+[#nm:"Grad Pit in", #tp:"antimatter", #depth:10, #contourExp:1.5, #tags:[], #notes:[]]
+
