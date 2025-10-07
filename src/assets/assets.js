@@ -1,5 +1,5 @@
 // Auto-generated asset data
-// Generated on: 2025-10-07T17:21:39.975506
+// Generated on: 2025-10-07T17:23:56.154728
 
 const ASSETS_DATA = {
   "full-renderer": {
