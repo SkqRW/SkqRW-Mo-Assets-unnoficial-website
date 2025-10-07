@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mo' Assets - Unofficial Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Mo' Assets</h1>
+        <p>UNOFFICIAL Mo' Assets Visualizer</p>
+        <p id="total-stats" style="font-size: 1rem; opacity: 0.8; margin-top: 0.5rem;"></p>
+    </div>
+
+    <div class="NOTICE">
+        <h1>THIS WEBPAGE IS NOT OFFICIAL</h1>
+        <br>
+        This is a personal project and is not affiliated with the official Mo' Assets repository. I didn't compile all the assets and this site doesn't contain everything from the original repository. Please visit the official repository to find all the assets that are omitted here.
+        <br> 
+        If you want to see all the assets, visit the official repository: <a href="https://github.com/rwslugcat/Mo-Assets" target="_blank">https://github.com/rwslugcat/Mo-Assets</a>
+    </div>
+
+    <div class="container">
+        <div class="tabs">
+            <button class="tab-button active" data-tab="full-renderer">Full Renderer</button>
+            <button class="tab-button" data-tab="material-packs">Material Packs</button>
+            <button class="tab-button" data-tab="prop-packs">Prop Packs</button>
+            <button class="tab-button" data-tab="tile-packs">Tile Packs</button>
+        </div>
+
+        <div class="search-container">
+            <input type="text" class="search-input" placeholder="Search assets..." id="searchInput">
+        </div>
+
+        <div id="full-renderer" class="tab-content active">
+            <div class="loading">Loading Full Renderer Assets...</div>
+        </div>
+
+        <div id="material-packs" class="tab-content">
+            <div class="loading">Loading Material Packs...</div>
+        </div>
+
+        <div id="prop-packs" class="tab-content">
+            <div class="loading">Loading Prop Packs...</div>
+        </div>
+
+        <div id="tile-packs" class="tab-content">
+            <div class="loading">Loading Tile Packs...</div>
+        </div>
+    </div>
+
+    <!-- Modal for viewing large images -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="modal-close">&times;</span>
+            <img id="modal-img" src="" alt="">
+        </div>
+    </div>
+
+    <script src="assets/assets.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
