@@ -24,7 +24,7 @@ def get_png_files_from_directory(directory_path, base_path=""):
                     'name': file,
                     'path': relative_path,
                     'url': web_path,
-                    'author': 'Not yet',
+                    'author': 'IN the repo excel, not here (to do it here later)',
                     'type': None,
                     'size': os.path.getsize(full_path)
                 })
