@@ -19,8 +19,6 @@ def get_png_files_from_directory(directory_path, base_path=""):
                 web_path = relative_path.replace('\\', '/')
                 if base_path:
                     web_path = os.path.relpath(full_path, base_path).replace('\\', '/')
-                    # Adjust path to be relative from src/index.html to the root
-                    web_path = '../' + web_path
                 
                 png_files.append({
                     'name': file,
